@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">One Click Beauty Care</string>
+    <string name="hbeautycare">Beauty Care</string>
+    <string name="hbeautytips">Beauty Tips</string>
+    <string name="hhair">Hair</string>
+    <string name="hmakeup">Make Up</string>
+    <string name="hnails">Nails</string>
+    <string name="hskincare" translatable="false">Skincare</string>
+    <string name="htips"><![CDATA[Tips & Tutorials]]></string>
+    <string name="hfaq">FAQ</string>
+    <string name="haboutus">About Us</string>
+    <string name="title_activity_content_display">ContentDisplayActivity</string>
+</resources>
